@@ -1,3 +1,5 @@
+<img width="2549" height="1403" alt="image" src="https://github.com/user-attachments/assets/511f8dac-b0bd-4d12-b9a7-0ec6d8cfe938" />
+
 ## Web-Attack-Detection-System项目运行顺序：
 
 
